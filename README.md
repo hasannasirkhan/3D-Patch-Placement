@@ -27,3 +27,5 @@ This script allows you to place a 3D patch at a specific point within a larger 3
 
 Feel free to contribute by opening issues or pull requests. If you have suggestions or improvements, please let us know!
 
+## Author:
+Hasan Nasir Khan (hasannasirk@gmail.com)
